@@ -9,5 +9,5 @@ $log = new errorLogger('dbtest',$rabbitConfig);
 
 $log->logError("Test","DEBUG","This is a test Error");
 
-
+?>
 
