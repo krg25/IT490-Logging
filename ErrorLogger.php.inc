@@ -35,7 +35,7 @@ class errorLogger
 
 		$response = $this->rabbit_server->publish($this->rabbit_message);
 		echo "Logged Error\n";
-		print_r($response);
+		echo $this->rabbit_message;
 	}
 }
 
