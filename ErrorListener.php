@@ -1,5 +1,5 @@
 #!/usr/bin/php
-<?php#
+<?php
 
 require_once('rabbitMQLib.inc');
 
