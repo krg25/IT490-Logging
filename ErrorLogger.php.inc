@@ -10,7 +10,7 @@ class errorLogger
 	private $error_type;
 	private $error_level;
 	private $error_message;
-	private $timestamp = date("m/d/Y H:i:s);	
+	private $timestamp = date("m/d/Y H:i:s");	
 	
 	private $rabbit_server = "";
 	private $rabbit_message;
@@ -29,7 +29,7 @@ class errorLogger
 
 		$this->rabbit_message = $timestamp.\t.$sending_server.\t.$error_type.\t.$error_level.\t.$error_message;
 
-		$response = $client->send_request($rabbit_message);
+		$response = $client->publish($rabbit_message);
 		echo "Logged Error";
 		printr($response);
 	}
