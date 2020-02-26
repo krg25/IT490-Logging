@@ -3,3 +3,14 @@
 02/25/2020 02:26:12	dbtest	Test	DEBUG	This is a test Error
 02/25/2020 03:21:31	mysqli_connect	Connection Failure	ERROR	Failed to connect: Access denied for user 'connectionuser1'@'localhost' (using password: YES)
 02/25/2020 03:26:08	mysqli_connect	Connection Failure	ERROR	Failed to connect: Access denied for user 'connectionuser1'@'localhost' (using password: YES)
+02/25/2020 03:36:32	mysqli_connect	Connection Failure	ERROR	Failed to connect: Access denied for user 'connectionuser1'@'localhost' (using password: YES)
+02/25/2020 04:10:02	mysqli_connect	Login Failure	DEBUG	Invalid Credentials
+02/25/2020 04:12:09	mysqli_connect	Login Failure	DEBUG	Invalid Credentials
+02/25/2020 04:28:18	doLogin	Login Failure	DEBUG	Invalid Credentials
+02/25/2020 04:29:42	doLogin	Login Failure	DEBUG	Invalid Credentials
+02/25/2020 04:29:53	doLogin	Login Failure	DEBUG	Invalid Credentials
+02/25/2020 04:32:22	doLogin	Login Failure	DEBUG	Invalid Credentials
+02/25/2020 04:33:11	doLogin	Login Failure	DEBUG	Invalid Credentials
+02/25/2020 04:41:50	doLogin	Login Failure	DEBUG	Invalid Credentials
+02/25/2020 04:46:02	DBListener->doLogin	Login Failure	DEBUG	Invalid Credentials
+02/25/2020 04:46:14	DBListener->doLogin	Success	DEBUG	Logged in Successfully
