@@ -26,7 +26,7 @@ class logger
 
 	function logError($errType, $errLevel, $errMessage)
 	{
-		$this->log_timestamp = date("m/d/Y h:i:s");
+		$this->log_timestamp = date("m/d/Y H:i:s");
 		$this->log_type = $errType;
 		$this->error_level = $errLevel;
 		$this->log_message = $errMessage;
@@ -40,7 +40,7 @@ class logger
 	
 	function logDebug($logType, $debugMessage)
 	{
-		$this->log_timestamp = date("m/d/Y h:i:s");
+		$this->log_timestamp = date("m/d/Y H:i:s");
 		$this->log_type = $logType;
 		$this->error_level = "DEBUG";
 		$this->log_message = $debugMessage;
@@ -48,7 +48,7 @@ class logger
 		$this->rabbit_message = $this->log_timestamp."\t".$this->sending_server."\t".$this->log_type."\t".$this->error_level."\t".$this->log_message;
 
 		$response = $this->rabbit_server->publish($this->rabbit_message);
-		echo "Logged DEbug\n";
+		echo "Logged Debug\n";
 		echo $this->rabbit_message;
 	}
 }
