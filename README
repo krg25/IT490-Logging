@@ -1,0 +1,28 @@
+The Logger works to synchronize all of the error and debug logs across all of the nodes in the application. 
+
+usage is as follows: 
+
+
+1. 	clone/download the IT490-Logging repo. 
+2.	Create a symbolic link in the directory of the code you want to implement logging in 
+
+3. 	In each function, create an instance of the logger:
+	$[variable-name] = new logger('[file->function]','[rabbit file]');
+
+	make sure to include the logger as well:
+	require_once(Logger.php.inc)
+
+4.	To send send something to the log, use the following:
+
+	errors:
+		$[variable-name]->logError('[Log Type]','[Error Level]', '[Log  Message]')
+
+	debug:
+		$[variable-name]->logDebug('[Log Type]','[Log Message]')
+
+	
+	Error Type - This should be bascially the subject of the log message. a short phrase that describes what the message is in reference type 
+
+	Error Level - The standard levels: Error Warning, Etc. 
+
+	Log Message - The specific information about the thing you are logging. 
