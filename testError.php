@@ -3,7 +3,7 @@
 
 require_once('Logger.php.inc');
 
-$rabbitConfig = 'rabbit.ini';
+$rabbitConfig = 'rabbit/rabbit.ini';
 $log = new Logger('dbtest',$rabbitConfig);
 
 

@@ -14,3 +14,5 @@
 02/25/2020 04:41:50	doLogin	Login Failure	DEBUG	Invalid Credentials
 02/25/2020 04:46:02	DBListener->doLogin	Login Failure	DEBUG	Invalid Credentials
 02/25/2020 04:46:14	DBListener->doLogin	Success	DEBUG	Logged in Successfully
+03/01/2020 16:20:00	dbtest	Test	DEBUG	This is a test Error
+03/01/2020 16:20:00	dbtest	test	DEBUG	this is a test debug
