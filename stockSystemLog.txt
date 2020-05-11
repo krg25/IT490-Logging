@@ -16,3 +16,644 @@
 02/25/2020 04:46:14	DBListener->doLogin	Success	DEBUG	Logged in Successfully
 03/01/2020 16:20:00	dbtest	Test	DEBUG	This is a test Error
 03/01/2020 16:20:00	dbtest	test	DEBUG	this is a test debug
+05/11/2020 02:06:43	dbtest	Test	DEBUG	This is a test Error
+05/11/2020 02:06:43	dbtest	test	DEBUG	this is a test debug
+05/11/2020 04:23:17	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:17	mysqli_connect	Success	DEBUG	New user Registered
+05/11/2020 04:23:40	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:40	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:40	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:40	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:40	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:40	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:40	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:40	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:40	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:40	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:40	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:41	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:41	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:41	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:41	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:41	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:41	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:41	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:41	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:41	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:41	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:41	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:41	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:41	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:42	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:42	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:42	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:42	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:42	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:42	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:42	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:42	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:42	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:42	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:42	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:42	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:42	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:42	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:43	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:43	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:43	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:43	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:43	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:43	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:43	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:43	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:43	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:43	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:43	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:43	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:43	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:44	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:44	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:44	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:44	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:44	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:44	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:44	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:44	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:44	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:47	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:23:47	Portfolio.php.inc->getPortfolio	No results in DB	DEBUG	
+
+05/11/2020 04:24:05	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:05	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:05	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:05	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:05	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:05	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:05	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:05	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:05	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:06	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:06	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:06	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:06	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:06	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:06	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:06	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:06	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:06	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:06	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:06	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:06	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:06	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:06	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:07	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:07	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:07	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:07	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:07	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:07	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:07	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:07	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:07	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:07	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:07	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:07	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:07	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:08	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:08	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:08	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:08	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:08	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:08	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:08	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:08	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:08	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:08	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:08	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:08	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:08	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:08	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:09	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:09	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:09	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:09	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:09	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:09	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:09	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:09	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:09	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:09	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:09	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:09	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:09	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:10	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:10	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:10	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:10	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:10	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:10	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:10	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:10	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:10	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:10	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:10	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:10	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:10	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:10	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:11	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:11	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:11	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:11	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:11	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:11	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:11	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:11	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:11	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:11	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:11	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:11	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:11	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:12	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:12	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:12	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:12	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:12	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:12	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:12	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:12	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:12	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:12	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:12	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:12	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:12	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:12	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:13	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:13	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:13	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:13	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:13	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:13	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:13	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:13	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:13	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:13	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:13	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:13	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:13	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:13	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:14	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:14	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:14	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:14	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:14	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:14	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:14	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:14	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:14	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:14	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:14	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:14	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:14	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:14	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:15	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:15	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:15	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:15	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:15	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:15	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:15	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:15	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:15	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:15	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:15	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:15	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:15	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:16	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:16	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:16	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:16	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:16	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:16	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:16	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:16	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:16	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:16	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:16	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:16	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:16	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:16	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:17	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:17	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:17	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:17	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:17	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:17	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:17	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:17	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:17	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:17	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:17	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:17	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:17	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:17	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:18	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:18	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:18	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:18	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:18	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:18	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:18	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:18	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:18	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:18	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:18	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:18	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:18	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:18	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:20	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:22	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:23	Portfolio.php.inc->getPortfolio	No results in DB	DEBUG	
+
+05/11/2020 04:24:44	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:46	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:47	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:24:47	Portfolio.php.inc->getPortfolio	No results in DB	DEBUG	
+
+05/11/2020 04:30:13	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:16	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:19	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:19	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:20	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:20	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:20	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:20	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:20	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:20	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:20	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:20	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:20	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:20	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:20	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:20	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:20	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:21	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:21	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:21	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:21	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:21	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:21	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:21	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:21	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:21	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:21	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:21	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:21	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:21	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:22	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:22	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:22	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:22	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:22	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:22	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:22	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:22	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:22	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:22	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:22	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:22	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:22	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:22	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:23	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:23	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:23	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:23	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:23	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:23	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:23	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:23	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:23	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:23	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:23	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:23	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:23	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:23	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:24	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:24	Portfolio.php.inc->getPortfolio	No results in DB	DEBUG	
+
+05/11/2020 04:30:24	server.php->requestProcessor	Request Received	DEBUG	
+
+05/11/2020 04:30:49	server.php->requestProcessor	Request Received	DEBUG	
+
