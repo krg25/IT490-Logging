@@ -16,3 +16,217 @@
 02/25/2020 04:46:14	DBListener->doLogin	Success	DEBUG	Logged in Successfully
 03/01/2020 16:20:00	dbtest	Test	DEBUG	This is a test Error
 03/01/2020 16:20:00	dbtest	test	DEBUG	this is a test debug
+03/26/2020 20:50:45	dbtest	Test	DEBUG	This is a test Error
+03/26/2020 20:50:45	dbtest	test	DEBUG	this is a test debug
+04/07/2020 15:40:17	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 15:40:17	mysqli_connect	Connection Failure	ERROR	Failed to connect: Access denied for user 'connectionuser'@'localhost' (using password: YES)
+04/07/2020 15:47:24	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 15:47:24	mysqli_connect	Connection Failure	ERROR	Failed to connect: Access denied for user 'connectionuser'@'localhost' (using password: YES)
+04/07/2020 15:57:01	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 15:57:01	mysqli_connect	Success	DEBUG	New user Registered
+04/07/2020 15:59:14	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 15:59:14	StockData.php.inc->getStock	No results in DB	DEBUG	
+
+04/07/2020 15:59:39	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 15:59:39	mysqli_connect	Success	DEBUG	Transaction Successful
+04/07/2020 15:59:44	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 15:59:54	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:00:01	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:00:04	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:00:04	StockData.php.inc->getStock	No results in DB	DEBUG	
+
+04/07/2020 16:00:20	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:01:03	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:01:03	StockData.php.inc->getStock	No results in DB	DEBUG	
+
+04/07/2020 16:01:19	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:01:27	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:01:27	mysqli_connect	Success	DEBUG	User logged in successfully
+04/07/2020 16:02:24	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:02:24	mysqli_connect	Success	DEBUG	New user Registered
+04/07/2020 16:02:29	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:02:29	Portfolio.php.inc->getPortfolio	No results in DB	DEBUG	
+
+04/07/2020 16:02:32	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:02:40	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:02:49	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:02:50	Portfolio.php.inc->getPortfolio	No results in DB	DEBUG	
+
+04/07/2020 16:02:52	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:02:59	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:03:01	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:03:03	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:03:03	Portfolio.php.inc->getPortfolio	No results in DB	DEBUG	
+
+04/07/2020 16:03:14	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:03:14	mysqli_connect	Success	DEBUG	User logged in successfully
+04/07/2020 16:03:17	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:03:17	Portfolio.php.inc->getPortfolio	No results in DB	DEBUG	
+
+04/07/2020 16:03:20	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:03:26	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:03:26	mysqli_connect	Success	DEBUG	Transaction Successful
+04/07/2020 16:03:27	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:03:37	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:03:40	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:03:46	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:03:54	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:03:54	StockData.php.inc->getStock	No results in DB	DEBUG	
+
+04/07/2020 16:04:01	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:04:01	mysqli_connect	Success	DEBUG	Transaction Successful
+04/07/2020 16:04:02	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:04:50	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:05:32	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:05:32	mysqli_connect	Success	DEBUG	Transaction Successful
+04/07/2020 16:05:32	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:05:43	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:05:50	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:05:50	mysqli_connect	Success	DEBUG	Transaction Successful
+04/07/2020 16:05:53	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:05:56	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:06:48	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:06:52	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:06:53	mysqli_connect	Success	DEBUG	Transaction Successful
+04/07/2020 16:06:53	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:07:00	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:07:05	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:07:05	mysqli_connect	Success	DEBUG	Transaction Successful
+04/07/2020 16:07:05	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:07:19	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:07:28	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:07:54	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:08:03	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:08:05	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:08:16	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:08:16	StockData.php.inc->getStock	No results in DB	DEBUG	
+
+04/07/2020 16:08:20	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:08:38	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:08:38	mysqli_connect	Success	DEBUG	Transaction Successful
+04/07/2020 16:08:40	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:08:45	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:09:03	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:09:15	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:09:17	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:09:31	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:09:33	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:09:34	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:09:34	mysqli_connect	Success	DEBUG	Transaction Successful
+04/07/2020 16:09:37	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:10:09	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:10:28	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:10:29	mysqli_connect	Success	DEBUG	Transaction Successful
+04/07/2020 16:10:33	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:10:39	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:10:56	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:10:59	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:11:09	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:11:15	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:11:15	mysqli_connect	Success	DEBUG	Transaction Successful
+04/07/2020 16:11:15	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:11:48	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:11:49	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:12:15	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:12:17	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:12:45	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 16:12:49	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 18:29:48	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 18:29:48	mysqli_connect	Registration Error	ERROR	Duplicate entry 'test' for key 'username'
+04/07/2020 18:30:08	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 18:30:08	mysqli_connect	Success	DEBUG	New user Registered
+04/07/2020 18:30:24	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 18:30:24	StockData.php.inc->getStock	No results in DB	DEBUG	
+
+04/07/2020 18:30:50	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 18:30:50	mysqli_connect	Success	DEBUG	Transaction Successful
+04/07/2020 18:30:50	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 18:31:00	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 18:31:03	server.php->requestProcessor	Request Received	DEBUG	
+
+04/07/2020 18:32:22	server.php->requestProcessor	Request Received	DEBUG	
+
